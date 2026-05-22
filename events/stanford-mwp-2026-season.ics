@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stanford Men's Water Polo//Season 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stanford MWP 2026 Season
+X-WR-CALDESC:Full 2026 schedule for Stanford Men's Water Polo.
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-29-uci-tournament@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:UCI Tournament
+LOCATION:UC Irvine, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-pepperdine@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Stanford MWP at Pepperdine
+LOCATION:Pepperdine University, Malibu, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-06-ucsb@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Stanford MWP at UCSB
+LOCATION:UC Santa Barbara, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-13-uop@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;TZID=America/Los_Angeles:20260913T130000
+DTEND;TZID=America/Los_Angeles:20260913T150000
+SUMMARY:Stanford MWP at UOP
+LOCATION:University of the Pacific, Stockton, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-mpsf-invite@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260921
+SUMMARY:MPSF Invite (Home)
+LOCATION:Avery Aquatic Center, Stanford, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-san-jose-state@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Stanford MWP vs San Jose State (Home)
+LOCATION:Avery Aquatic Center, Stanford, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-27-uc-davis@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Stanford MWP at UC Davis
+LOCATION:UC Davis, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-ucla@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;TZID=America/Los_Angeles:20261003T130000
+DTEND;TZID=America/Los_Angeles:20261003T150000
+SUMMARY:Stanford MWP at UCLA
+LOCATION:UCLA, Los Angeles, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-04-usc@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;TZID=America/Los_Angeles:20261004T130000
+DTEND;TZID=America/Los_Angeles:20261004T150000
+SUMMARY:Stanford MWP at USC
+LOCATION:USC, Los Angeles, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-santa-clara@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;TZID=America/Los_Angeles:20261010T130000
+DTEND;TZID=America/Los_Angeles:20261010T150000
+SUMMARY:Stanford MWP vs Santa Clara (Home)
+LOCATION:Avery Aquatic Center, Stanford, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-cal@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;TZID=America/Los_Angeles:20261017T130000
+DTEND;TZID=America/Los_Angeles:20261017T150000
+SUMMARY:Stanford MWP at Cal
+LOCATION:UC Berkeley, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-long-beach-state@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Stanford MWP at Long Beach State
+LOCATION:Long Beach State, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-25-ucsd@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Stanford MWP at UCSD
+LOCATION:UC San Diego, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-usc@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;TZID=America/Los_Angeles:20261031T130000
+DTEND;TZID=America/Los_Angeles:20261031T150000
+SUMMARY:Stanford MWP vs USC (Home)
+LOCATION:Avery Aquatic Center, Stanford, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-01-ucla@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;TZID=America/Los_Angeles:20261101T130000
+DTEND;TZID=America/Los_Angeles:20261101T150000
+SUMMARY:Stanford MWP vs UCLA (Home)
+LOCATION:Avery Aquatic Center, Stanford, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-fordham@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Stanford MWP vs Fordham (Home)
+LOCATION:Avery Aquatic Center, Stanford, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-big-splash@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Big Splash vs Cal (Home)
+LOCATION:Avery Aquatic Center, Stanford, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-mpsf-championships@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:MPSF Championships
+LOCATION:USC, Los Angeles, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-ncaa-championships@stanfordmwp
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:NCAA Championships
+LOCATION:UC San Diego, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
