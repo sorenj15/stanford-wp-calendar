@@ -21,13 +21,13 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-08-29-uci-tournament@stanfordmwp
-DTSTAMP:20260515T000000Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:UCI Tournament
-LOCATION:UC Irvine, CA
-DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+UID:2026-08-29-cal-st-fullerton@stanfordmwp
+DTSTAMP:20260601T000000Z
+DTSTART;TZID=America/Los_Angeles:20260829T130000
+DTEND;TZID=America/Los_Angeles:20260829T150000
+SUMMARY:Stanford MWP vs Cal St. Fullerton
+LOCATION:Irvine, CA
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo.
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
