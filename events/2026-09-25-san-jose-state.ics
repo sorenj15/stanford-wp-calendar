@@ -22,12 +22,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-09-25-san-jose-state@stanfordmwp
-DTSTAMP:20260515T000000Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
+DTSTAMP:20260601T000000Z
+DTSTART;TZID=America/Los_Angeles:20260925T130000
+DTEND;TZID=America/Los_Angeles:20260925T150000
 SUMMARY:Stanford MWP vs San Jose State (Home)
 LOCATION:Avery Aquatic Center, Stanford, CA
-DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo for details.
+DESCRIPTION:Stanford Men's Water Polo 2026 season. See gostanford.com/sports/mens-water-polo.
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
